@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-21T23:37:12.154092",
+  "last_updated": "2026-07-22T23:36:42.070671",
   "sent_items": {
-    "5a60fcd9ee73131e": {
-      "date": "2026-06-21",
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "source": "hackernews"
-    },
-    "18af52ad9fea7164": {
-      "date": "2026-06-21",
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "source": "hackernews"
-    },
-    "c75edcbe8313f72c": {
-      "date": "2026-06-21",
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "source": "hackernews"
-    },
-    "7850086478fa3f06": {
-      "date": "2026-06-21",
-      "title": "Pre-2022 Books",
-      "source": "hackernews"
-    },
-    "285773f4818b4a71": {
-      "date": "2026-06-21",
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "source": "hackernews"
-    },
-    "4428f36051617740": {
-      "date": "2026-06-21",
-      "title": "Inference cost at scale with napkin math",
-      "source": "hackernews"
-    },
-    "80941dbae2cfcf47": {
-      "date": "2026-06-21",
-      "title": "Alice is impatient",
-      "source": "hackernews"
-    },
-    "dc20851c2b48c21a": {
-      "date": "2026-06-21",
-      "title": "Not just books: renting a sewing machine from the library can improve democracy",
-      "source": "hackernews"
-    },
-    "69677a1ebc2e3d3c": {
-      "date": "2026-06-21",
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "source": "hackernews"
-    },
-    "6e70f48cceac3aac": {
-      "date": "2026-06-21",
-      "title": "Epoll vs. Io_uring in Linux",
-      "source": "hackernews"
-    },
-    "8ce743d51ee4a11f": {
-      "date": "2026-06-21",
-      "title": "ReleaseDock",
-      "source": "producthunt"
-    },
-    "f58bd999f96164c8": {
-      "date": "2026-06-21",
-      "title": "Pixlie",
-      "source": "producthunt"
-    },
-    "dc9cbd876d6e1f89": {
-      "date": "2026-06-21",
-      "title": "Slackbot’s MCP Client",
-      "source": "producthunt"
-    },
-    "05c04b6fec7cb814": {
-      "date": "2026-06-21",
-      "title": "Are you in the Weights?",
-      "source": "producthunt"
-    },
-    "19f8a4ca34dab5c3": {
-      "date": "2026-06-21",
-      "title": "pumaDB",
-      "source": "producthunt"
-    },
-    "70c7411d6ef2aea6": {
-      "date": "2026-06-21",
-      "title": "Reframe",
-      "source": "producthunt"
-    },
-    "6ce22d880a7d3545": {
-      "date": "2026-06-21",
-      "title": "GitSync for macOS",
-      "source": "producthunt"
-    },
-    "fb9702a59206af19": {
-      "date": "2026-06-21",
-      "title": "Fruit Dash: A Solstice Platformer with Binary Code Gates",
-      "source": "devto"
-    },
-    "3488bc28a7ea780f": {
-      "date": "2026-06-21",
-      "title": "The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺",
-      "source": "devto"
-    },
-    "5a182f4a51245abd": {
-      "date": "2026-06-21",
-      "title": "⚡️Self-Hosting Experience with Jetson Orin Nano and Ollama 🦙",
-      "source": "devto"
-    },
-    "392b41342168eb44": {
-      "date": "2026-06-21",
-      "title": "Rebuilding a Divi Blog with Custom Shortcodes: A Field Report",
-      "source": "devto"
-    },
-    "1594b153fef2210d": {
-      "date": "2026-06-21",
-      "title": "ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing's Last AI, Interrogated by a Live Gemin",
-      "source": "devto"
-    },
-    "b46649f307148f40": {
-      "date": "2026-06-21",
-      "title": "Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam",
-      "source": "devto"
-    },
-    "b7d8a634e631a409": {
-      "date": "2026-06-21",
-      "title": "I Benchmarked 17 Image Conversions on My Production Server. Some Results Were Not What I Expected.",
-      "source": "devto"
-    },
-    "526fff8d5c9655c1": {
-      "date": "2026-06-21",
-      "title": "AI memory should be a product state, not a prompt trick",
-      "source": "devto"
-    },
-    "0baefb5c932a8431": {
-      "date": "2026-06-21",
-      "title": "I automated everything except the code, and that's where Claude Code actually paid off",
-      "source": "devto"
-    },
-    "cf18a45dc2f21a47": {
-      "date": "2026-06-21",
-      "title": "Among Liars -> The 7th Player Isn't Human",
-      "source": "devto"
-    },
-    "0bad1edbad8117de": {
-      "date": "2026-06-21",
-      "title": "tursodatabase / turso",
-      "source": "github"
-    },
-    "390f5316113d12d5": {
-      "date": "2026-06-21",
-      "title": "tw93 / Pake",
-      "source": "github"
-    },
-    "bfeff07f7d8682f0": {
-      "date": "2026-06-21",
-      "title": "jamiepine / voicebox",
-      "source": "github"
-    },
     "ead6b93e051102f5": {
       "date": "2026-06-22",
       "title": "Identity verification on Claude",
@@ -5181,6 +5031,176 @@
       "date": "2026-07-21",
       "title": "langchain-ai / open_deep_research",
       "source": "github"
+    },
+    "6ca22fc6b2aead0a": {
+      "date": "2026-07-22",
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "source": "hackernews"
+    },
+    "678763b37da605af": {
+      "date": "2026-07-22",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "source": "hackernews"
+    },
+    "5e48565febeac4f5": {
+      "date": "2026-07-22",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "source": "hackernews"
+    },
+    "a1d745ce50de911b": {
+      "date": "2026-07-22",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "source": "hackernews"
+    },
+    "02232e38e9ed7824": {
+      "date": "2026-07-22",
+      "title": "Everyone Should Know SIMD",
+      "source": "hackernews"
+    },
+    "8ef2e4ef1b1a28c1": {
+      "date": "2026-07-22",
+      "title": "Safari Technology Preview 248 Released",
+      "source": "hackernews"
+    },
+    "9f90536071ea53ea": {
+      "date": "2026-07-22",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "source": "hackernews"
+    },
+    "3a032f85ecf85a43": {
+      "date": "2026-07-22",
+      "title": "Malleable Computing, Emacs, and You",
+      "source": "hackernews"
+    },
+    "bc6c1a712780e98d": {
+      "date": "2026-07-22",
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "source": "hackernews"
+    },
+    "54b80d267e4cb44e": {
+      "date": "2026-07-22",
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "source": "hackernews"
+    },
+    "f05b34d02ab03efd": {
+      "date": "2026-07-22",
+      "title": "MonoCloud for Startups",
+      "source": "producthunt"
+    },
+    "da974e3033e08f8e": {
+      "date": "2026-07-22",
+      "title": "Redential",
+      "source": "producthunt"
+    },
+    "8361de597a4f8d85": {
+      "date": "2026-07-22",
+      "title": "box",
+      "source": "producthunt"
+    },
+    "dfcc39ce1b748f38": {
+      "date": "2026-07-22",
+      "title": "UltraPod",
+      "source": "producthunt"
+    },
+    "fd446ea949e4cb2b": {
+      "date": "2026-07-22",
+      "title": "Overflight",
+      "source": "producthunt"
+    },
+    "fab52f6911a82a9e": {
+      "date": "2026-07-22",
+      "title": "Lattics",
+      "source": "producthunt"
+    },
+    "8b56d022076b2e8f": {
+      "date": "2026-07-22",
+      "title": "Humalike x Hermes",
+      "source": "producthunt"
+    },
+    "a6ee411b464a458a": {
+      "date": "2026-07-22",
+      "title": "Remote OpenClaw",
+      "source": "producthunt"
+    },
+    "b88a3a4b263fe858": {
+      "date": "2026-07-22",
+      "title": "schollz / croc",
+      "source": "github"
+    },
+    "239fc0bbdc76c10b": {
+      "date": "2026-07-22",
+      "title": "likec4 / likec4",
+      "source": "github"
+    },
+    "c175a33fc9954c9b": {
+      "date": "2026-07-22",
+      "title": "shiyu-coder / Kronos",
+      "source": "github"
+    },
+    "7e39ec2390d0765a": {
+      "date": "2026-07-22",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "source": "github"
+    },
+    "fe5f464751175ecd": {
+      "date": "2026-07-22",
+      "title": "agegr / pi-web",
+      "source": "github"
+    },
+    "0f509cf92ac6d466": {
+      "date": "2026-07-22",
+      "title": "dreamhunter2333 / cloudflare_temp_email",
+      "source": "github"
+    },
+    "5da3f4c37d3720d8": {
+      "date": "2026-07-22",
+      "title": "The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI",
+      "source": "devto"
+    },
+    "d99d41e62511a205": {
+      "date": "2026-07-22",
+      "title": "Contribuir para a comunidade: como destacar isso no seu LinkedIn e currículo",
+      "source": "devto"
+    },
+    "22d1b91ecd7a24a9": {
+      "date": "2026-07-22",
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "source": "devto"
+    },
+    "6b281a647098fd45": {
+      "date": "2026-07-22",
+      "title": "What is a context window, actually?",
+      "source": "devto"
+    },
+    "d1195c9225566267": {
+      "date": "2026-07-22",
+      "title": "Substack's New AI Detector Has the Same Blind Spot DEV.to's Did",
+      "source": "devto"
+    },
+    "f6b077c6f20dc5b9": {
+      "date": "2026-07-22",
+      "title": "Swift Classes — Deinitializers and How Swift Cleans Up After Itself 🧹",
+      "source": "devto"
+    },
+    "4095ab66232f8959": {
+      "date": "2026-07-22",
+      "title": "Nuxt vs SvelteKit: What works better?",
+      "source": "devto"
+    },
+    "ef6aff73d624510f": {
+      "date": "2026-07-22",
+      "title": "Defeating the Fargate Cold Start Chaos with SOCI",
+      "source": "devto"
+    },
+    "1e626d276e20994c": {
+      "date": "2026-07-22",
+      "title": "SPF, DKIM, DMARC: the 15-minute setup that actually passes",
+      "source": "devto"
+    },
+    "b75ebd7bec4dfd12": {
+      "date": "2026-07-22",
+      "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
+      "source": "devto"
     }
   }
 }
