@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-22T23:36:42.070671",
+  "last_updated": "2026-07-23T23:34:06.620839",
   "sent_items": {
-    "ead6b93e051102f5": {
-      "date": "2026-06-22",
-      "title": "Identity verification on Claude",
-      "source": "hackernews"
-    },
-    "7d71e6815adec316": {
-      "date": "2026-06-22",
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "source": "hackernews"
-    },
-    "9ab140b948c262b2": {
-      "date": "2026-06-22",
-      "title": "JSON-LD Explained for Personal Websites",
-      "source": "hackernews"
-    },
-    "ea5a45c3af5bf436": {
-      "date": "2026-06-22",
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "source": "hackernews"
-    },
-    "9bd7a67eddd4600a": {
-      "date": "2026-06-22",
-      "title": "Did my old job only exist because of fraud?",
-      "source": "hackernews"
-    },
-    "e7bab2232f0d31e4": {
-      "date": "2026-06-22",
-      "title": "Everything Is Logarithms",
-      "source": "hackernews"
-    },
-    "57a790565b60efef": {
-      "date": "2026-06-22",
-      "title": "Stop wasting tokens and re explaining your project between sessions",
-      "source": "hackernews"
-    },
-    "3972d0f81e54a4a6": {
-      "date": "2026-06-22",
-      "title": "PowerFox Browser",
-      "source": "hackernews"
-    },
-    "65171448dd1f4a6c": {
-      "date": "2026-06-22",
-      "title": "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
-      "source": "hackernews"
-    },
-    "35e25d4dec72c524": {
-      "date": "2026-06-22",
-      "title": "Simple hard way to conjugate Japanese verbs",
-      "source": "hackernews"
-    },
-    "60e190b4c0e4d95f": {
-      "date": "2026-06-22",
-      "title": "oioi",
-      "source": "producthunt"
-    },
-    "1305353225ad44ff": {
-      "date": "2026-06-22",
-      "title": "Grok by SpaceXAI for Word",
-      "source": "producthunt"
-    },
-    "5cb978d0985c1a75": {
-      "date": "2026-06-22",
-      "title": "Atomic Mail Agentic",
-      "source": "producthunt"
-    },
-    "bde3562d7fe1f73d": {
-      "date": "2026-06-22",
-      "title": "Laguna by Poolside",
-      "source": "producthunt"
-    },
-    "292664e7957d106b": {
-      "date": "2026-06-22",
-      "title": "Plansera AI",
-      "source": "producthunt"
-    },
-    "02c87d0c8bab43f6": {
-      "date": "2026-06-22",
-      "title": "Agent 37 Cloud",
-      "source": "producthunt"
-    },
-    "7db20e2dc913e34c": {
-      "date": "2026-06-22",
-      "title": "Notchkin",
-      "source": "producthunt"
-    },
-    "4c03872b4105b66f": {
-      "date": "2026-06-22",
-      "title": "Some friends wanted to see how I use DigitalOcean. So I built them the smallest real app I could.",
-      "source": "devto"
-    },
-    "96c48b17297c1d83": {
-      "date": "2026-06-22",
-      "title": "15 AI Stories Later, Some Honest Words",
-      "source": "devto"
-    },
-    "f137faa6d02558e1": {
-      "date": "2026-06-22",
-      "title": "(new) Bifrost Edge: MCP Visibility and Control for Enterprise Teams and Beyond 🔥",
-      "source": "devto"
-    },
-    "239ece87e9af1a82": {
-      "date": "2026-06-22",
-      "title": "When Judgment Becomes the Bottleneck",
-      "source": "devto"
-    },
-    "e9df813b512b103e": {
-      "date": "2026-06-22",
-      "title": "Solstice Crypt - Decrypt the Light",
-      "source": "devto"
-    },
-    "7f764d64c4f3a16a": {
-      "date": "2026-06-22",
-      "title": "From Prompting ChatGPT to Orchestrating AI Agents: Two Years as an Ordinary Engineer",
-      "source": "devto"
-    },
-    "ed85ad29e7ffbcc2": {
-      "date": "2026-06-22",
-      "title": "What Is an Array, Really? I'm Writing a Book to Find Out",
-      "source": "devto"
-    },
-    "5031edb1ad7611c0": {
-      "date": "2026-06-22",
-      "title": "The Playwright Playbook — Part 7: The CI/CD Setup Nobody Shows You",
-      "source": "devto"
-    },
-    "14a4448bb99442cb": {
-      "date": "2026-06-22",
-      "title": "Turing's Mirror - A Game About the Question We Still Haven't Answered",
-      "source": "devto"
-    },
-    "82a63756c4175cd6": {
-      "date": "2026-06-22",
-      "title": "Less Noise, More Labs: How I Actually Learned RF Hacking This Year",
-      "source": "devto"
-    },
-    "4ec6d5af71eebc5a": {
-      "date": "2026-06-22",
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-06-22",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
-    "f0139d905f3ca74b": {
-      "date": "2026-06-22",
-      "title": "mikumifa / biliTickerBuy",
-      "source": "github"
-    },
-    "d5c3c51d6e6ce977": {
-      "date": "2026-06-22",
-      "title": "smicallef / spiderfoot",
-      "source": "github"
-    },
-    "194bbbbcb050ad73": {
-      "date": "2026-06-22",
-      "title": "topoteretes / cognee",
-      "source": "github"
-    },
     "f410da262bf0885c": {
       "date": "2026-06-23",
       "title": "Steam Machine launches today",
@@ -5201,6 +5041,171 @@
       "date": "2026-07-22",
       "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
       "source": "devto"
+    },
+    "7a4b50a8f9c12e0a": {
+      "date": "2026-07-23",
+      "title": "Swenest",
+      "source": "producthunt"
+    },
+    "88ecc7a2bddea9c9": {
+      "date": "2026-07-23",
+      "title": "Drawsy",
+      "source": "producthunt"
+    },
+    "4cb18d1d37f79c64": {
+      "date": "2026-07-23",
+      "title": "Vevey",
+      "source": "producthunt"
+    },
+    "fd3029a6cf68b775": {
+      "date": "2026-07-23",
+      "title": "xPitch",
+      "source": "producthunt"
+    },
+    "7232d387e3a0dcf5": {
+      "date": "2026-07-23",
+      "title": "AgentLoop",
+      "source": "producthunt"
+    },
+    "81a4b4825816f1a9": {
+      "date": "2026-07-23",
+      "title": "OpenCode Superapp",
+      "source": "producthunt"
+    },
+    "26b811d667d2e418": {
+      "date": "2026-07-23",
+      "title": "Wispro",
+      "source": "producthunt"
+    },
+    "35ef15278bebe994": {
+      "date": "2026-07-23",
+      "title": "Writing by hand is good for your brain",
+      "source": "hackernews"
+    },
+    "aca257bb93fd12fa": {
+      "date": "2026-07-23",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "source": "hackernews"
+    },
+    "f64ead1100dcc11f": {
+      "date": "2026-07-23",
+      "title": "What happened to TheNumbers.com",
+      "source": "hackernews"
+    },
+    "5223b9bbb6a5ac5f": {
+      "date": "2026-07-23",
+      "title": "Software rendering in 500 lines of bare C++",
+      "source": "hackernews"
+    },
+    "85bd5a1fc677dda6": {
+      "date": "2026-07-23",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "source": "hackernews"
+    },
+    "1ff27c8ad9969a65": {
+      "date": "2026-07-23",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "source": "hackernews"
+    },
+    "66ea0eb6f9181fa2": {
+      "date": "2026-07-23",
+      "title": "Building on ATProto",
+      "source": "hackernews"
+    },
+    "8bd1f17f0a17c196": {
+      "date": "2026-07-23",
+      "title": "The Beam Engine",
+      "source": "hackernews"
+    },
+    "8cce3676d4f631cb": {
+      "date": "2026-07-23",
+      "title": "98.css",
+      "source": "hackernews"
+    },
+    "6b00a79aa94f3891": {
+      "date": "2026-07-23",
+      "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
+      "source": "hackernews"
+    },
+    "faa501375775e0d3": {
+      "date": "2026-07-23",
+      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+      "source": "devto"
+    },
+    "686ffa292750fff1": {
+      "date": "2026-07-23",
+      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+      "source": "devto"
+    },
+    "eeda0c5ab91437cc": {
+      "date": "2026-07-23",
+      "title": "Swift Classes — The Four Ways Variables and Constants Can Combine 🎭",
+      "source": "devto"
+    },
+    "307d58c5f7b58f02": {
+      "date": "2026-07-23",
+      "title": "Jerry Ran Out of Numbers But Drank All the Punch",
+      "source": "devto"
+    },
+    "078745d6ff844477": {
+      "date": "2026-07-23",
+      "title": "Roll your own file-based router in under 50 lines of code",
+      "source": "devto"
+    },
+    "64b28b64827bcb31": {
+      "date": "2026-07-23",
+      "title": "My dashboard took 7.6 seconds to render fifteen numbers 🐌",
+      "source": "devto"
+    },
+    "bbc2a1e12ee85dc0": {
+      "date": "2026-07-23",
+      "title": "Game networking for a slow strategy game",
+      "source": "devto"
+    },
+    "2cd143fdad0c7ca8": {
+      "date": "2026-07-23",
+      "title": "Tried building GitHub's search box in Go",
+      "source": "devto"
+    },
+    "5920cc8cff939517": {
+      "date": "2026-07-23",
+      "title": "DSCI - CI with regular programming languages instead of YAML",
+      "source": "devto"
+    },
+    "d89892338a08a58f": {
+      "date": "2026-07-23",
+      "title": "How AI Endpoints Change the Traditional API Flow",
+      "source": "devto"
+    },
+    "f8fd1424e453d1b4": {
+      "date": "2026-07-23",
+      "title": "block / buzz",
+      "source": "github"
+    },
+    "0064ff826d4ea331": {
+      "date": "2026-07-23",
+      "title": "Pumpkin-MC / Pumpkin",
+      "source": "github"
+    },
+    "02e09efcdbd4bdf8": {
+      "date": "2026-07-23",
+      "title": "citrolabs / ego-lite",
+      "source": "github"
+    },
+    "9cd514d03f14c102": {
+      "date": "2026-07-23",
+      "title": "alibaba / open-code-review",
+      "source": "github"
+    },
+    "f0e8ac07d3199ef1": {
+      "date": "2026-07-23",
+      "title": "Automattic / harper",
+      "source": "github"
+    },
+    "59e9f1b93ba7d02c": {
+      "date": "2026-07-23",
+      "title": "jellyfin / jellyfin",
+      "source": "github"
     }
   }
 }
