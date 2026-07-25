@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-24T23:38:51.546011",
+  "last_updated": "2026-07-25T23:38:39.347044",
   "sent_items": {
     "dd8688eee4b04870": {
       "date": "2026-06-25",
@@ -5036,6 +5036,156 @@
       "date": "2026-07-24",
       "title": "Lordog / dive-into-llms",
       "source": "github"
+    },
+    "95fc50816c04ac20": {
+      "date": "2026-07-25",
+      "title": "Wisprkey",
+      "source": "producthunt"
+    },
+    "c9869707dc98f592": {
+      "date": "2026-07-25",
+      "title": "Islet",
+      "source": "producthunt"
+    },
+    "9c85e1ad701479ac": {
+      "date": "2026-07-25",
+      "title": "FluentDB",
+      "source": "producthunt"
+    },
+    "aa37f02ebba86789": {
+      "date": "2026-07-25",
+      "title": "Heard",
+      "source": "producthunt"
+    },
+    "98666d28c144442a": {
+      "date": "2026-07-25",
+      "title": "ADE",
+      "source": "producthunt"
+    },
+    "ea36c9efa0105c60": {
+      "date": "2026-07-25",
+      "title": "OpenComputer",
+      "source": "producthunt"
+    },
+    "36ea64e3c3a4f903": {
+      "date": "2026-07-25",
+      "title": "ShellMate",
+      "source": "producthunt"
+    },
+    "ac71da6de14196dc": {
+      "date": "2026-07-25",
+      "title": "Stolen Buttons",
+      "source": "hackernews"
+    },
+    "ee13eda5a3ab314b": {
+      "date": "2026-07-25",
+      "title": "Did They Ghost You?",
+      "source": "hackernews"
+    },
+    "9b29631a6a5adf30": {
+      "date": "2026-07-25",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "source": "hackernews"
+    },
+    "d0177a1324b4d592": {
+      "date": "2026-07-25",
+      "title": "Show HN: I made some transistor animations",
+      "source": "hackernews"
+    },
+    "3f9700fa5caa4f44": {
+      "date": "2026-07-25",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "source": "hackernews"
+    },
+    "39dd863f3ac88790": {
+      "date": "2026-07-25",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "source": "hackernews"
+    },
+    "faa38b3e99b7f423": {
+      "date": "2026-07-25",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "source": "hackernews"
+    },
+    "c28024dfea702fee": {
+      "date": "2026-07-25",
+      "title": "General Resolution: LLM Usage in Debian",
+      "source": "hackernews"
+    },
+    "5af2ccc1952b21be": {
+      "date": "2026-07-25",
+      "title": "SIMD for Collision",
+      "source": "hackernews"
+    },
+    "f333e5be58514bbb": {
+      "date": "2026-07-25",
+      "title": "Multicast TV Distribution on My Home Network",
+      "source": "hackernews"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-07-25",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "609b77217e47447a": {
+      "date": "2026-07-25",
+      "title": "permissionlesstech / bitchat",
+      "source": "github"
+    },
+    "fa7a24d15387e004": {
+      "date": "2026-07-25",
+      "title": "palmier-io / palmier-pro",
+      "source": "github"
+    },
+    "e9c563ceb650198f": {
+      "date": "2026-07-25",
+      "title": "The Crash That Only Happened Sometimes — A SwiftUI Bug",
+      "source": "devto"
+    },
+    "8bc08fb58ef14192": {
+      "date": "2026-07-25",
+      "title": "I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru",
+      "source": "devto"
+    },
+    "fca3ad64454ea4bc": {
+      "date": "2026-07-25",
+      "title": "🐈‍⬛Check Out Catbot's New Leg!",
+      "source": "devto"
+    },
+    "77d776c6ddce773c": {
+      "date": "2026-07-25",
+      "title": "389 Tests Passed. NIST Still Caught the Bug.",
+      "source": "devto"
+    },
+    "7df733b4e9820b0e": {
+      "date": "2026-07-25",
+      "title": "I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side con",
+      "source": "devto"
+    },
+    "75272eb55b835108": {
+      "date": "2026-07-25",
+      "title": "Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyberdeck",
+      "source": "devto"
+    },
+    "05c9659cc2e15552": {
+      "date": "2026-07-25",
+      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+      "source": "devto"
+    },
+    "624d74caa930a954": {
+      "date": "2026-07-25",
+      "title": "We instrumented an AI agent swarm with SigNoz, and its own telemetry told us we were wrong about alm",
+      "source": "devto"
+    },
+    "6e75403927d22041": {
+      "date": "2026-07-25",
+      "title": "How to structure CLAUDE.md, Skills and Agents",
+      "source": "devto"
+    },
+    "42935df782f9b5e1": {
+      "date": "2026-07-25",
+      "title": "Building a real-time Crystal app with Kemal — where privacy is a server invariant",
+      "source": "devto"
     }
   }
 }
