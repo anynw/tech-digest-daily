@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-25T23:38:39.347044",
+  "last_updated": "2026-07-26T23:48:27.308248",
   "sent_items": {
-    "dd8688eee4b04870": {
-      "date": "2026-06-25",
-      "title": "We’re making Bunny DNS free",
-      "source": "hackernews"
-    },
-    "b2b283d1fdd44d7c": {
-      "date": "2026-06-25",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "source": "hackernews"
-    },
-    "b6b1da51450c665d": {
-      "date": "2026-06-25",
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "source": "hackernews"
-    },
-    "9bbbb66c5b5abf3b": {
-      "date": "2026-06-25",
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "source": "hackernews"
-    },
-    "62333b25b5f0a747": {
-      "date": "2026-06-25",
-      "title": "The Xteink X4 E-Ink Reader",
-      "source": "hackernews"
-    },
-    "eafad1904fb15d6d": {
-      "date": "2026-06-25",
-      "title": "Computer use in Gemini 3.5 Flash",
-      "source": "hackernews"
-    },
-    "9f709adbd370ec0b": {
-      "date": "2026-06-25",
-      "title": "Qualcomm to Acquire Modular",
-      "source": "hackernews"
-    },
-    "b1d70d92460119f3": {
-      "date": "2026-06-25",
-      "title": "Elastic lays off 7% of employees",
-      "source": "hackernews"
-    },
-    "e40b0fcf29e95feb": {
-      "date": "2026-06-25",
-      "title": "PostgreSQL Is Enough",
-      "source": "hackernews"
-    },
-    "204b03b0bd78a1d7": {
-      "date": "2026-06-25",
-      "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch",
-      "source": "hackernews"
-    },
-    "564cdde030abf8e2": {
-      "date": "2026-06-25",
-      "title": "Crewdle AI",
-      "source": "producthunt"
-    },
-    "705d918fcc134699": {
-      "date": "2026-06-25",
-      "title": "Ruby",
-      "source": "producthunt"
-    },
-    "62d4a7841ca68db2": {
-      "date": "2026-06-25",
-      "title": "Nimt",
-      "source": "producthunt"
-    },
-    "3da21d3fa9d380f1": {
-      "date": "2026-06-25",
-      "title": "Swimio",
-      "source": "producthunt"
-    },
-    "28acae171eb621eb": {
-      "date": "2026-06-25",
-      "title": "React UI Kit V7",
-      "source": "producthunt"
-    },
-    "434ef1c8cd1209ce": {
-      "date": "2026-06-25",
-      "title": "Customer Relationship Agents by Clarify",
-      "source": "producthunt"
-    },
-    "4733d515a4129ae6": {
-      "date": "2026-06-25",
-      "title": "Prospector by Synter",
-      "source": "producthunt"
-    },
-    "992c73525e781399": {
-      "date": "2026-06-25",
-      "title": "Stripe.Directory",
-      "source": "producthunt"
-    },
-    "602d60accf3ca829": {
-      "date": "2026-06-25",
-      "title": "To The People Who Read My Weird Little Blogs",
-      "source": "devto"
-    },
-    "e08a7fd9a243a061": {
-      "date": "2026-06-25",
-      "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
-      "source": "devto"
-    },
-    "4bcb78c7d8096141": {
-      "date": "2026-06-25",
-      "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
-      "source": "devto"
-    },
-    "7e7570c74b92c395": {
-      "date": "2026-06-25",
-      "title": "TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)",
-      "source": "devto"
-    },
-    "cf0445d5c8770d41": {
-      "date": "2026-06-25",
-      "title": "Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus",
-      "source": "devto"
-    },
-    "bd9e7f230e660e46": {
-      "date": "2026-06-25",
-      "title": "Something Changed After the Sloan Articles. I Can't Prove It.",
-      "source": "devto"
-    },
-    "5392a59ed5875d93": {
-      "date": "2026-06-25",
-      "title": "# Arc 9 Catch-Up: Writing Your First Solana Program",
-      "source": "devto"
-    },
-    "04b20f6e93a988c0": {
-      "date": "2026-06-25",
-      "title": "Conduit: The Gateway I Built to Forget About",
-      "source": "devto"
-    },
-    "096bc15777e4c183": {
-      "date": "2026-06-25",
-      "title": "Next.js 16 Server Actions Security: The Auth Check Most Developers Miss",
-      "source": "devto"
-    },
-    "8c6c247eacc117d3": {
-      "date": "2026-06-25",
-      "title": "Every Alarm Is a Crime Scene: Meet Poirot, the Read-Only Incident Detective",
-      "source": "devto"
-    },
-    "4a703dff9c32e930": {
-      "date": "2026-06-25",
-      "title": "interviewstreet / hiring-agent",
-      "source": "github"
-    },
-    "b68be267c74ad855": {
-      "date": "2026-06-25",
-      "title": "flutter / flutter",
-      "source": "github"
-    },
-    "9b315b26fb029ae5": {
-      "date": "2026-06-25",
-      "title": "andreknieriem / headunit-revived",
-      "source": "github"
-    },
-    "d7dc32f00be2e8f5": {
-      "date": "2026-06-25",
-      "title": "stablyai / orca",
-      "source": "github"
-    },
-    "8fcbd3d83192e011": {
-      "date": "2026-06-25",
-      "title": "google-labs-code / design.md",
-      "source": "github"
-    },
-    "f84e917e416c7dca": {
-      "date": "2026-06-25",
-      "title": "Flowseal / zapret-discord-youtube",
-      "source": "github"
-    },
-    "ecac04eb8fd789a9": {
-      "date": "2026-06-25",
-      "title": "kunchenguid / no-mistakes",
-      "source": "github"
-    },
     "a64cfd340f6b38a2": {
       "date": "2026-06-26",
       "title": "Polygraph",
@@ -5186,6 +5011,171 @@
       "date": "2026-07-25",
       "title": "Building a real-time Crystal app with Kemal — where privacy is a server invariant",
       "source": "devto"
+    },
+    "ff02f88490955ea8": {
+      "date": "2026-07-26",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "source": "hackernews"
+    },
+    "06d8e97a7fcf509b": {
+      "date": "2026-07-26",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "source": "hackernews"
+    },
+    "04a1803c5810b3f2": {
+      "date": "2026-07-26",
+      "title": "Design is compromise",
+      "source": "hackernews"
+    },
+    "74fa33b5f6bf39bb": {
+      "date": "2026-07-26",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "source": "hackernews"
+    },
+    "049f9ba83c8dcdc7": {
+      "date": "2026-07-26",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "source": "hackernews"
+    },
+    "67785b3afcbb02f8": {
+      "date": "2026-07-26",
+      "title": "How to Block Some of the Bots",
+      "source": "hackernews"
+    },
+    "cc44ef51c68f5eb2": {
+      "date": "2026-07-26",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "source": "hackernews"
+    },
+    "8b680fbb72f39332": {
+      "date": "2026-07-26",
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "source": "hackernews"
+    },
+    "f7fc0063c1d35180": {
+      "date": "2026-07-26",
+      "title": "Teaching Kids Forth",
+      "source": "hackernews"
+    },
+    "3289bfde62d22538": {
+      "date": "2026-07-26",
+      "title": "Japan legend Miura, 59, scores first goal since 2022",
+      "source": "hackernews"
+    },
+    "8d78e4872bcccc5c": {
+      "date": "2026-07-26",
+      "title": "PureBox.ai",
+      "source": "producthunt"
+    },
+    "681a79c22ee9955b": {
+      "date": "2026-07-26",
+      "title": "Aymo AI",
+      "source": "producthunt"
+    },
+    "dd15ee2cc6a450f9": {
+      "date": "2026-07-26",
+      "title": "SF Apartment Finder",
+      "source": "producthunt"
+    },
+    "369e98d5758f84fb": {
+      "date": "2026-07-26",
+      "title": "TouchGrass",
+      "source": "producthunt"
+    },
+    "5601a7acba4cab12": {
+      "date": "2026-07-26",
+      "title": "BrainFeed",
+      "source": "producthunt"
+    },
+    "670763f491a203a6": {
+      "date": "2026-07-26",
+      "title": "yatta!",
+      "source": "producthunt"
+    },
+    "e9e9bcdb60b25401": {
+      "date": "2026-07-26",
+      "title": "KeyOpera 2.0",
+      "source": "producthunt"
+    },
+    "3589e4ac3c794425": {
+      "date": "2026-07-26",
+      "title": "Pulse Island",
+      "source": "producthunt"
+    },
+    "9fe4c4d60a39269c": {
+      "date": "2026-07-26",
+      "title": "Como eu venci o medo da transição de carreira",
+      "source": "devto"
+    },
+    "1c91e4c0d846efc4": {
+      "date": "2026-07-26",
+      "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
+      "source": "devto"
+    },
+    "ff219a09f8e71d4c": {
+      "date": "2026-07-26",
+      "title": "Your JSON Array Was Streaming All Along",
+      "source": "devto"
+    },
+    "2f465368e0420efc": {
+      "date": "2026-07-26",
+      "title": "No backend, no database, no network calls. I still found 3 security holes.",
+      "source": "devto"
+    },
+    "4a24bc6a4d20109b": {
+      "date": "2026-07-26",
+      "title": "PWAs Cache Resources. Spirit Installs an Application.",
+      "source": "devto"
+    },
+    "e190d03b43ad9755": {
+      "date": "2026-07-26",
+      "title": "One Task.Run Quietly Killed the BackgroundService Startup Footgun",
+      "source": "devto"
+    },
+    "5e1e3cf8095d0d62": {
+      "date": "2026-07-26",
+      "title": "600 Filters and a 414: The New QUERY Method in .NET 10",
+      "source": "devto"
+    },
+    "030fff06fda00b51": {
+      "date": "2026-07-26",
+      "title": "Don't Wait. Fork It.",
+      "source": "devto"
+    },
+    "3ad51fdb3b4c6789": {
+      "date": "2026-07-26",
+      "title": "I Built an Autonomous On-Chain Agent on Solana: Here's the Documentation I Wish I Had Earlier",
+      "source": "devto"
+    },
+    "d276d7bf4f78d446": {
+      "date": "2026-07-26",
+      "title": "What You Can Do With C#",
+      "source": "devto"
+    },
+    "a2c9c4617f9b3de5": {
+      "date": "2026-07-26",
+      "title": "nodejs / node",
+      "source": "github"
+    },
+    "37ec76a5f2bf0780": {
+      "date": "2026-07-26",
+      "title": "OtterMind / Chat2DB",
+      "source": "github"
+    },
+    "be8acfaf11180d2a": {
+      "date": "2026-07-26",
+      "title": "pbakaus / impeccable",
+      "source": "github"
+    },
+    "b627289da26ad7fd": {
+      "date": "2026-07-26",
+      "title": "andrewyng / aisuite",
+      "source": "github"
+    },
+    "5ca71ebd0783a4d9": {
+      "date": "2026-07-26",
+      "title": "permissionlesstech / bitchat-android",
+      "source": "github"
     }
   }
 }
