@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-31T23:38:45.298497",
+  "last_updated": "2026-08-01T23:35:27.412061",
   "sent_items": {
-    "86edef7453693483": {
-      "date": "2026-07-01",
-      "title": "Oakamo",
-      "source": "producthunt"
-    },
-    "ca1c0a51e598b478": {
-      "date": "2026-07-01",
-      "title": "Akiflow",
-      "source": "producthunt"
-    },
-    "ff26bc3838465381": {
-      "date": "2026-07-01",
-      "title": "Midway Chat",
-      "source": "producthunt"
-    },
-    "039b1297dbd0b9b9": {
-      "date": "2026-07-01",
-      "title": "Brain2Qwerty v2",
-      "source": "producthunt"
-    },
-    "7953fe8152abb155": {
-      "date": "2026-07-01",
-      "title": "Pluno",
-      "source": "producthunt"
-    },
-    "74bbfda82f0674f5": {
-      "date": "2026-07-01",
-      "title": "Cursor for iOS",
-      "source": "producthunt"
-    },
-    "4e0ae3e0fc3e09da": {
-      "date": "2026-07-01",
-      "title": "v0 Design Systems 2.0",
-      "source": "producthunt"
-    },
-    "18c3b2dc44abea8b": {
-      "date": "2026-07-01",
-      "title": "Justwrite",
-      "source": "producthunt"
-    },
-    "fba550e7a7eedf48": {
-      "date": "2026-07-01",
-      "title": "Claude Code is steganographically marking requests",
-      "source": "hackernews"
-    },
-    "9b2ad380c4695f22": {
-      "date": "2026-07-01",
-      "title": "Claude Sonnet 5",
-      "source": "hackernews"
-    },
-    "20ad65b3d8aefd29": {
-      "date": "2026-07-01",
-      "title": "Claude Science",
-      "source": "hackernews"
-    },
-    "ebf8cf7f5598dd53": {
-      "date": "2026-07-01",
-      "title": "Nano Banana 2 Lite",
-      "source": "hackernews"
-    },
-    "c7620228444deafa": {
-      "date": "2026-07-01",
-      "title": "I ported Kubernetes to the browser",
-      "source": "hackernews"
-    },
-    "9ba7400215896fc5": {
-      "date": "2026-07-01",
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "source": "hackernews"
-    },
-    "46fd8334bfb18825": {
-      "date": "2026-07-01",
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "source": "hackernews"
-    },
-    "8e9ce4c602287034": {
-      "date": "2026-07-01",
-      "title": "Leanstral 1.5",
-      "source": "hackernews"
-    },
-    "0446481fcf8376c3": {
-      "date": "2026-07-01",
-      "title": "TabFM: A zero-shot foundation model for tabular data",
-      "source": "hackernews"
-    },
-    "b6443377bf278ec2": {
-      "date": "2026-07-01",
-      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
-      "source": "hackernews"
-    },
-    "fada5e4b86d4e65e": {
-      "date": "2026-07-01",
-      "title": "The Future Of AI Is Local And Open",
-      "source": "devto"
-    },
-    "a7f283ec16c25ef3": {
-      "date": "2026-07-01",
-      "title": "This Is Software’s iPhone Moment",
-      "source": "devto"
-    },
-    "5ce4b818dac9ab2e": {
-      "date": "2026-07-01",
-      "title": "AI Engineer Meets AI Engineer",
-      "source": "devto"
-    },
-    "36f043643286eb5f": {
-      "date": "2026-07-01",
-      "title": "The Log Is the Agent",
-      "source": "devto"
-    },
-    "b3fbf6f96b8d0fc8": {
-      "date": "2026-07-01",
-      "title": "Someone Else Pays for Your AI Access",
-      "source": "devto"
-    },
-    "6ebc937a8ec7cc3d": {
-      "date": "2026-07-01",
-      "title": "You Don’t Always Need The Frontier",
-      "source": "devto"
-    },
-    "83a23b9bf1a8e689": {
-      "date": "2026-07-01",
-      "title": "The Evolution & Role of Context Engineering in AI Today",
-      "source": "devto"
-    },
-    "ed848ad1de51bc2a": {
-      "date": "2026-07-01",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "30044b9adfe7c86f": {
-      "date": "2026-07-01",
-      "title": "Gemma and sandboxing cause a stir at the World's Fair",
-      "source": "devto"
-    },
-    "592ef1c6b6d6c185": {
-      "date": "2026-07-01",
-      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
-      "source": "devto"
-    },
-    "ac45b546f1b96f0f": {
-      "date": "2026-07-01",
-      "title": "hasaneyldrm / exercises-dataset",
-      "source": "github"
-    },
-    "10942d97d561cb4c": {
-      "date": "2026-07-01",
-      "title": "diegosouzapw / OmniRoute",
-      "source": "github"
-    },
-    "e665646e6d6bb4d6": {
-      "date": "2026-07-01",
-      "title": "Mebus / cupp",
-      "source": "github"
-    },
-    "f7881b53deff036c": {
-      "date": "2026-07-01",
-      "title": "google / agents-cli",
-      "source": "github"
-    },
-    "b8b2afae293a234e": {
-      "date": "2026-07-01",
-      "title": "roboflow / supervision",
-      "source": "github"
-    },
-    "db7f927fbf3135e2": {
-      "date": "2026-07-01",
-      "title": "ogulcancelik / herdr",
-      "source": "github"
-    },
-    "b592dd6b10824215": {
-      "date": "2026-07-01",
-      "title": "CoreBunch / Instatic",
-      "source": "github"
-    },
-    "e67e2c38cce6781c": {
-      "date": "2026-07-01",
-      "title": "microsoft / AI-For-Beginners",
-      "source": "github"
-    },
     "084d765c81983169": {
       "date": "2026-07-02",
       "title": "For first time, a cell built from scratch grows and divides",
@@ -5211,6 +5031,176 @@
       "date": "2026-07-31",
       "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
       "source": "devto"
+    },
+    "4eb49727745a52f2": {
+      "date": "2026-08-01",
+      "title": "NudgeForMe",
+      "source": "producthunt"
+    },
+    "ddde8478eede37b4": {
+      "date": "2026-08-01",
+      "title": "DeepSeek-V4-Flash-0731",
+      "source": "producthunt"
+    },
+    "d2bf65ecd76b0e23": {
+      "date": "2026-08-01",
+      "title": "Yamanote 3D",
+      "source": "producthunt"
+    },
+    "61ca52a90c00a787": {
+      "date": "2026-08-01",
+      "title": "Tandem",
+      "source": "producthunt"
+    },
+    "7086ecc66ffda31f": {
+      "date": "2026-08-01",
+      "title": "Kopai",
+      "source": "producthunt"
+    },
+    "437770a271d95fd6": {
+      "date": "2026-08-01",
+      "title": "SyncStaq",
+      "source": "producthunt"
+    },
+    "9edd83739bad6894": {
+      "date": "2026-08-01",
+      "title": "AgentMicro",
+      "source": "producthunt"
+    },
+    "b3adcaec08be542c": {
+      "date": "2026-08-01",
+      "title": "The Art of 64-bit Assembly",
+      "source": "hackernews"
+    },
+    "6dbc532b9ee90b10": {
+      "date": "2026-08-01",
+      "title": "Diátaxis",
+      "source": "hackernews"
+    },
+    "e4e5f3b9e7d18f7c": {
+      "date": "2026-08-01",
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "source": "hackernews"
+    },
+    "e836b9e1bee1a1d8": {
+      "date": "2026-08-01",
+      "title": "Just because a game is on disc doesn't mean it will work in the future",
+      "source": "hackernews"
+    },
+    "1746f99df19d101b": {
+      "date": "2026-08-01",
+      "title": "Seedance 2.5",
+      "source": "hackernews"
+    },
+    "2af7715e9dc023ef": {
+      "date": "2026-08-01",
+      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "source": "hackernews"
+    },
+    "cbcaf7d982754c40": {
+      "date": "2026-08-01",
+      "title": "But can your calculator run Linux?",
+      "source": "hackernews"
+    },
+    "52bd84de9cfe9cf5": {
+      "date": "2026-08-01",
+      "title": "CISA Alert: Water Sector PLC Targeting",
+      "source": "hackernews"
+    },
+    "9c0337b2fa8c8052": {
+      "date": "2026-08-01",
+      "title": "Unraveling the mysteries of habit formation",
+      "source": "hackernews"
+    },
+    "f4c21b97a8105bfa": {
+      "date": "2026-08-01",
+      "title": "Stop fucking around with database commits and transactions",
+      "source": "hackernews"
+    },
+    "1304a8021347b716": {
+      "date": "2026-08-01",
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "source": "devto"
+    },
+    "c21a8620095039ee": {
+      "date": "2026-08-01",
+      "title": "CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix",
+      "source": "devto"
+    },
+    "14c2b907fe3370a7": {
+      "date": "2026-08-01",
+      "title": "ratatop: the network box, and why your ISP lies with units",
+      "source": "devto"
+    },
+    "d5dd422248abd25b": {
+      "date": "2026-08-01",
+      "title": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.",
+      "source": "devto"
+    },
+    "39a320ea08cab2a5": {
+      "date": "2026-08-01",
+      "title": "Introducing DevPub - Open Source Dev.to CLI Tool",
+      "source": "devto"
+    },
+    "a3707e06386d3446": {
+      "date": "2026-08-01",
+      "title": "Gravy Boat — a landing page with a CSS poutine you can drown in!",
+      "source": "devto"
+    },
+    "541d9d354471f223": {
+      "date": "2026-08-01",
+      "title": "Poutine: the true food of the gods",
+      "source": "devto"
+    },
+    "6e0d9d4c93ee08d5": {
+      "date": "2026-08-01",
+      "title": "Why Agent Evaluation Is Harder Than Model Evaluation",
+      "source": "devto"
+    },
+    "5d597406f6af7fa7": {
+      "date": "2026-08-01",
+      "title": "Pascal Programming",
+      "source": "devto"
+    },
+    "b78875220adbd23c": {
+      "date": "2026-08-01",
+      "title": "Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests",
+      "source": "devto"
+    },
+    "4e308eb7afe62c72": {
+      "date": "2026-08-01",
+      "title": "microsoft / generative-ai-for-beginners",
+      "source": "github"
+    },
+    "e82f8ca3ecc61b6c": {
+      "date": "2026-08-01",
+      "title": "github / gh-stack",
+      "source": "github"
+    },
+    "51b3fb36b568ae94": {
+      "date": "2026-08-01",
+      "title": "abus-aikorea / voice-pro",
+      "source": "github"
+    },
+    "7026d70d272e7f07": {
+      "date": "2026-08-01",
+      "title": "iv-org / invidious",
+      "source": "github"
+    },
+    "19b144cbaabc3122": {
+      "date": "2026-08-01",
+      "title": "microsoft / TRELLIS.2",
+      "source": "github"
+    },
+    "b88ceb3d1250fce4": {
+      "date": "2026-08-01",
+      "title": "NomaDamas / k-skill",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-08-01",
+      "title": "bytedance / deer-flow",
+      "source": "github"
     }
   }
 }
