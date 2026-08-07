@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-08-07T01:40:03.695145",
+  "last_updated": "2026-08-07T08:07:45.988774",
   "sent_items": {
     "ee89408329588cd5": {
       "date": "2026-07-08",
@@ -4911,6 +4911,91 @@
       "date": "2026-08-07",
       "title": "Significant-Gravitas / AutoGPT",
       "source": "github"
+    },
+    "87fe43f80057a4cb": {
+      "date": "2026-08-07",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "source": "hackernews"
+    },
+    "88b44b794164defc": {
+      "date": "2026-08-07",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "source": "hackernews"
+    },
+    "f241c42eef7b08e5": {
+      "date": "2026-08-07",
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "source": "hackernews"
+    },
+    "761667e1aa84a0f2": {
+      "date": "2026-08-07",
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "source": "hackernews"
+    },
+    "967dbf08e3ff854d": {
+      "date": "2026-08-07",
+      "title": "Atomic Clocks",
+      "source": "hackernews"
+    },
+    "b64406b637f448b7": {
+      "date": "2026-08-07",
+      "title": "What is a product?",
+      "source": "hackernews"
+    },
+    "78898faf0edc9924": {
+      "date": "2026-08-07",
+      "title": "Reference",
+      "source": "producthunt"
+    },
+    "4a4fb3c647b87250": {
+      "date": "2026-08-07",
+      "title": "AndroMeld",
+      "source": "producthunt"
+    },
+    "8b4592d8ec185366": {
+      "date": "2026-08-07",
+      "title": "Crew",
+      "source": "producthunt"
+    },
+    "724ab43f9b4a28cc": {
+      "date": "2026-08-07",
+      "title": "Progress AI Observability",
+      "source": "producthunt"
+    },
+    "b105330180f3a437": {
+      "date": "2026-08-07",
+      "title": "Rescript for Desktop",
+      "source": "producthunt"
+    },
+    "84192075b6605656": {
+      "date": "2026-08-07",
+      "title": "Prompt Bridge",
+      "source": "producthunt"
+    },
+    "f282715d449d26cd": {
+      "date": "2026-08-07",
+      "title": "AgentOne Desktop",
+      "source": "producthunt"
+    },
+    "6b4f08f89ca0b906": {
+      "date": "2026-08-07",
+      "title": "The Channel Gap: Why Your LLM Judge is Blind in One Eye",
+      "source": "devto"
+    },
+    "6f4494bd409d7c7c": {
+      "date": "2026-08-07",
+      "title": "I Thought Building Agent Observability Was a Detector Problem. I Was Wrong.",
+      "source": "devto"
+    },
+    "a55c0154aa8058ad": {
+      "date": "2026-08-07",
+      "title": "AI is a Multiplier",
+      "source": "devto"
+    },
+    "a1a5020fc9d34927": {
+      "date": "2026-08-07",
+      "title": "I Built the Product. Made It Open Source. Deployed It Cheaply. Then... 7 Users Signed Up.",
+      "source": "devto"
     }
   }
 }
